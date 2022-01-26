@@ -3,7 +3,7 @@ Facebook phishing
 Phishing attack is the attack that manipulates the victim and get back the login details of facebook attack
 Steps :
 1) Firstly create a facebook clone page
-2) Create a text file with the name of facebook.txt
+2) Create a text file with the name of log.txt
 3) In the clone page search for the "action=" key word and re direct the destination file to the text file that created and named by facebook.txt
 4) Create a facebook php file and in that the destination website be as original facebook
 5) There are many free hosting websites to create a link for the facebook page like "https://newserv.freewha.com/cgi-bin/create_ini.cgi"
